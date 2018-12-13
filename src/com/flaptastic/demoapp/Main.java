@@ -1,4 +1,4 @@
-package com.flaptastic;
+package com.flaptastic.demoapp;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.flaptastic;
+package com.flaptastic.demoapp;
 
 public class Client {
     public static String sayHello() {
