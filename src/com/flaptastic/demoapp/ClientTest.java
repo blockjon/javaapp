@@ -9,5 +9,4 @@ public class ClientTest {
         Client c = new Client();
         assertEquals("Hello", c.sayHello());
     }
-
 }
