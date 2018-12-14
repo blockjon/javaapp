@@ -1,4 +1,6 @@
-package com.flaptastic.demoapp;
+package com.github.blockjon.demoapp;
+
+import com.flaptastic.demoapp.Client;
 
 import static org.junit.Assert.*;
 
