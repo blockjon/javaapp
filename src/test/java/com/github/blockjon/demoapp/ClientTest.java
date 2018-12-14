@@ -15,7 +15,7 @@ class MainTest {
 
     @Test
     void testJackBites() {
-        assertEquals("jack bites", "jack bites");
+        assertEquals("jack bixtes", "jack bites");
     }
 }
 
