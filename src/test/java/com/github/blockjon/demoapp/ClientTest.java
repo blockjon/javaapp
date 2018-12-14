@@ -12,5 +12,10 @@ class MainTest {
         Client c = new Client();
         assertEquals("Hello", c.sayHello());
     }
+
+    @Test
+    void testJackBites() {
+        assertEquals("jack bites", "jack bites");
+    }
 }
 
