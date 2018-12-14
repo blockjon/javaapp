@@ -2,13 +2,15 @@ package com.github.blockjon.demoapp;
 
 import com.flaptastic.demoapp.Client;
 
-import static org.junit.Assert.*;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class ClientTest {
+class MainTest {
 
-    @org.junit.Test
-    public void sayHello() {
+    @Test
+    void testMyTest1() {
         Client c = new Client();
         assertEquals("Hello", c.sayHello());
     }
 }
+
